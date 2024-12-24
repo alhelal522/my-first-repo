@@ -1,0 +1,19 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+.image img{
+    width: 1000px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: center;
+    font-size: 22px;
+}
