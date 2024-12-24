@@ -2,6 +2,7 @@ body{
     width: 1000px;
     margin: 0 auto;
     background-color: antiquewhite;
+    justify-content: center;
 }
 
 .image img{
@@ -16,4 +17,17 @@ h1{
 p{
     text-align: center;
     font-size: 22px;
+}
+.table table{
+    margin: 50px auto 0;
+
+}
+
+.table th{
+    font-size: 30px;
+}
+
+.table td{
+    font-size: 16px;
+    text-align: center;
 }
